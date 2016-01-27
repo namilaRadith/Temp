@@ -12,16 +12,4 @@ It comes before all other files.
 
 This is the first file added to my project.
 
-It comes before all other files.
 
-This is the first file added to my project.
-
-It comes before all other files.
-
-This is the first file added to my project.
-
-It comes before all other files.
-
-This is the first file added to my project.
-
-It comes before all other files.
